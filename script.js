@@ -6,7 +6,7 @@ const bands = [
     'A Skylit Drive', 'Anywhere But Here', 'An Old Dog'
 ];
 
-const list = document.getElementById('band'); 
+const list = document.getElementById('bands'); 
 
 bands.forEach((band) => {
     const li = document.createElement('li');
