@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+	background-image:url('https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')
+}
+.lists{
+	margin-left:25%;
+	margin-top:25%;
+	background-color:white;
+	width:50%
+	
+	
+}
