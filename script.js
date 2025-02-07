@@ -5,6 +5,7 @@ const bands = [
     'We Came as Romans', 'Counterparts', 'Oh, Sleeper',
     'A Skylit Drive', 'Anywhere But Here', 'An Old Dog'
 ];
+bands.sort()
 
 const list = document.getElementById('bands'); 
 
